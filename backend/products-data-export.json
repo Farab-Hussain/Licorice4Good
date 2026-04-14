@@ -1,0 +1,440 @@
+{
+  "timestamp": "2026-01-14T09:39:33.666Z",
+  "summary": {
+    "totalProducts": 8,
+    "activeProducts": 8,
+    "inactiveProducts": 0,
+    "totalVariations": 10,
+    "activeVariations": 10,
+    "packProducts": 2,
+    "productsWithVariations": 6
+  },
+  "products": [
+    {
+      "id": "cmija1jec002tlqoyxfu0aqc9",
+      "name": "3 pack Traditional Bronze",
+      "price": 24,
+      "stock": 989,
+      "category": "Traditional",
+      "packSize": 3,
+      "isPackProduct": false,
+      "packType": null,
+      "isActive": true,
+      "sku": "PROD-1764359415587-TXRLM",
+      "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764359415/licrorice/products/svndmb1wkabqfumoirur.jpg",
+      "flavors": [],
+      "variations": [
+        {
+          "id": "cmingk67c0001lqpdjcq23vpt",
+          "name": "Traditional",
+          "sku": "VAR-PROD-1764359415587-TXRLM-TRA-229001",
+          "isActive": true,
+          "images": [
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1765905016/licrorice/variations/gxbp4obshjlqiwa4dji1.png",
+              "isDefault": true
+            },
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764612236/licrorice/variations/quepeootclgknoan1gk1.png",
+              "isDefault": false
+            }
+          ],
+          "flavors": [
+            {
+              "name": "Red Twist",
+              "quantity": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cmij963fx000elqoy9089aar6",
+      "name": "3 Pack Sweet Bronze",
+      "price": 24,
+      "stock": 963,
+      "category": "Sweet",
+      "packSize": 3,
+      "isPackProduct": false,
+      "packType": null,
+      "isActive": true,
+      "sku": "PROD-1764357950008-JD97N",
+      "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764357949/licrorice/products/fotx76og4fq9rxunzjyq.jpg",
+      "flavors": [],
+      "variations": [
+        {
+          "id": "cminhx3xq001plqpdr6u7h15v",
+          "name": "Sweet Best Sellers",
+          "sku": "VAR-PROD-1764357950008-JD97N-SWE-512209",
+          "isActive": true,
+          "images": [
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1765905270/licrorice/variations/bplfofpxjjja9iylc9hm.png",
+              "isDefault": true
+            },
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764614518/licrorice/variations/w7wtmiaownb3o26rmwur.png",
+              "isDefault": false
+            }
+          ],
+          "flavors": [
+            {
+              "name": "Fruit Rainbow",
+              "quantity": 1
+            },
+            {
+              "name": "Cotton Candy",
+              "quantity": 1
+            },
+            {
+              "name": "Strawberry – Banana",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": "cminhzg44002llqpdj2nhdi2h",
+          "name": "Sweet Classics",
+          "sku": "VAR-PROD-1764357950008-JD97N-SWE-621304",
+          "isActive": true,
+          "images": [
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1765905291/licrorice/variations/swqxz2ruvpdncauguewp.png",
+              "isDefault": true
+            },
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764614626/licrorice/variations/qo3vsxnp5hc1a3ypx4g2.png",
+              "isDefault": false
+            }
+          ],
+          "flavors": [
+            {
+              "name": "Watermelon",
+              "quantity": 1
+            },
+            {
+              "name": "Berry Delight",
+              "quantity": 1
+            },
+            {
+              "name": "Cherry",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cmihw005r0000lqgvgbdlsm26",
+      "name": "3 Pack Sour Bronze ",
+      "price": 24,
+      "stock": 965,
+      "category": "Sour",
+      "packSize": 3,
+      "isPackProduct": false,
+      "packType": null,
+      "isActive": true,
+      "sku": "PROD-1764275363303-R6QXG",
+      "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764356550/licrorice/products/o579kxvz6lzzhh1jsjfw.jpg",
+      "flavors": [],
+      "variations": [
+        {
+          "id": "cmingqdbw0007lqpda9fzqy80",
+          "name": "Sour Best Sellers",
+          "sku": "VAR-PROD-1764275363303-R6QXG-SOU-518175",
+          "isActive": true,
+          "images": [
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1765905771/licrorice/variations/mhbf2gc4yc0eqspdcuan.png",
+              "isDefault": true
+            },
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764612526/licrorice/variations/lpm2sjzbyseokcgstwjl.jpg",
+              "isDefault": false
+            }
+          ],
+          "flavors": [
+            {
+              "name": "Blue Raspberry",
+              "quantity": 1
+            },
+            {
+              "name": "Fruit Rainbow",
+              "quantity": 1
+            },
+            {
+              "name": "Apple",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": "cmingqlo4000hlqpdcbtxpcxo",
+          "name": "Sour Classics",
+          "sku": "VAR-PROD-1764275363303-R6QXG-SOU-528982",
+          "isActive": true,
+          "images": [
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1765905790/licrorice/variations/paoltsa85ihnikc26sdm.png",
+              "isDefault": true
+            },
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764612532/licrorice/variations/z0wmltcvnncq5tcrbnxf.png",
+              "isDefault": false
+            }
+          ],
+          "flavors": [
+            {
+              "name": "Watermelon",
+              "quantity": 1
+            },
+            {
+              "name": "Cherry",
+              "quantity": 1
+            },
+            {
+              "name": "Berry Delight",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cmij9xcl5002klqoyantum7nz",
+      "name": "4 pack Traditional Silver",
+      "price": 30,
+      "stock": 996,
+      "category": "Traditional",
+      "packSize": 4,
+      "isPackProduct": false,
+      "packType": null,
+      "isActive": true,
+      "sku": "PROD-1764359221574-BEOEL",
+      "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764359260/licrorice/products/qwv0712qucwxqydxjhoj.jpg",
+      "flavors": [],
+      "variations": [
+        {
+          "id": "cminhrciv000rlqpd1says6jt",
+          "name": "Traditional",
+          "sku": "VAR-PROD-1764359221574-BEOEL-TRA-243404",
+          "isActive": true,
+          "images": [
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1765905065/licrorice/variations/ehyu6fld9ct3emlsdlpp.png",
+              "isDefault": true
+            },
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764614250/licrorice/variations/qphlhvkxacnraumcmzoz.jpg",
+              "isDefault": false
+            }
+          ],
+          "flavors": [
+            {
+              "name": "Red Twist",
+              "quantity": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cmij9sit6001vlqoyzdpk6u3g",
+      "name": "4 Pack Sweet Silver",
+      "price": 30,
+      "stock": 994,
+      "category": "Sweet",
+      "packSize": 4,
+      "isPackProduct": false,
+      "packType": null,
+      "isActive": true,
+      "sku": "PROD-1764358994989-N3N8Q",
+      "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764358994/licrorice/products/jyaydhvsee7jtlp3oces.jpg",
+      "flavors": [],
+      "variations": [
+        {
+          "id": "cminhuebd000xlqpdc7smx8zj",
+          "name": "Sweet Best Sellers",
+          "sku": "VAR-PROD-1764358994989-N3N8Q-SWE-385694",
+          "isActive": true,
+          "images": [
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1765905186/licrorice/variations/wt9k84arw39rcnbqrmys.png",
+              "isDefault": true
+            },
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764614393/licrorice/variations/bjrcpyvf76ffxd5u04vg.png",
+              "isDefault": false
+            }
+          ],
+          "flavors": [
+            {
+              "name": "Fruit Rainbow",
+              "quantity": 1
+            },
+            {
+              "name": "Cotton Candy",
+              "quantity": 1
+            },
+            {
+              "name": "Strawberry – Banana",
+              "quantity": 1
+            },
+            {
+              "name": "Watermelon",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": "cminhulsn0019lqpd6khm4xd8",
+          "name": "Sweet Classics",
+          "sku": "VAR-PROD-1764358994989-N3N8Q-SWE-395386",
+          "isActive": true,
+          "images": [
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1765905209/licrorice/variations/zjkvajslzaz3r6wsfjom.png",
+              "isDefault": true
+            },
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764614400/licrorice/variations/vttz8wozpkuahfsisf4o.png",
+              "isDefault": false
+            }
+          ],
+          "flavors": [
+            {
+              "name": "Fruit Rainbow",
+              "quantity": 1
+            },
+            {
+              "name": "Watermelon",
+              "quantity": 1
+            },
+            {
+              "name": "Berry Delight",
+              "quantity": 1
+            },
+            {
+              "name": "Cherry",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cmihwdmti001blqgvr7jnej3p",
+      "name": "4 Pack Sour Silver",
+      "price": 30,
+      "stock": 986,
+      "category": "Sour",
+      "packSize": 4,
+      "isPackProduct": false,
+      "packType": null,
+      "isActive": true,
+      "sku": "PROD-1764275999124-VQOBC",
+      "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764358692/licrorice/products/lajoiwgexzexiviwtijv.jpg",
+      "flavors": [],
+      "variations": [
+        {
+          "id": "cmini2qv2002vlqpd52h5l46p",
+          "name": "Sour Best Sellers",
+          "sku": "VAR-PROD-1764275999124-VQOBC-SOU-775114",
+          "isActive": true,
+          "images": [
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1765905713/licrorice/variations/gwp4tgbttl8pojxxdzjd.png",
+              "isDefault": true
+            },
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764614782/licrorice/variations/zgr86wc2cei85j7rsiuw.jpg",
+              "isDefault": false
+            }
+          ],
+          "flavors": [
+            {
+              "name": "Blue Raspberry",
+              "quantity": 1
+            },
+            {
+              "name": "Fruit Rainbow",
+              "quantity": 1
+            },
+            {
+              "name": "Apple",
+              "quantity": 1
+            },
+            {
+              "name": "Watermelon",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": "cmini2y8s0037lqpdiuapqqwz",
+          "name": "Sour Classics",
+          "sku": "VAR-PROD-1764275999124-VQOBC-SOU-784762",
+          "isActive": true,
+          "images": [
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1765905726/licrorice/variations/lq40et66utwfvvouzz5x.png",
+              "isDefault": true
+            },
+            {
+              "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764614791/licrorice/variations/xgk0q6am3kb7skdikmpc.png",
+              "isDefault": false
+            }
+          ],
+          "flavors": [
+            {
+              "name": "Fruit Rainbow",
+              "quantity": 1
+            },
+            {
+              "name": "Berry Delight",
+              "quantity": 1
+            },
+            {
+              "name": "Cherry",
+              "quantity": 1
+            },
+            {
+              "name": "Watermelon",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cmihwk2x5002ulqgvatc235jc",
+      "name": "7 Pack Sweet and Sour collection Gold",
+      "price": 58,
+      "stock": 983,
+      "category": "Sour",
+      "packSize": 7,
+      "isPackProduct": true,
+      "packType": "gold",
+      "isActive": true,
+      "sku": "PROD-1764276301339-A0ATU",
+      "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1764614942/licrorice/products/xmbeuxofnq9o8fanfagb.jpg",
+      "flavors": [],
+      "variations": []
+    },
+    {
+      "id": "cmihwn87k002vlqgvqgxx301y",
+      "name": "12 Pack Best Seller and Classic Platinum",
+      "price": 84,
+      "stock": 993,
+      "category": "Sweet",
+      "packSize": 12,
+      "isPackProduct": true,
+      "packType": "platinum",
+      "isActive": true,
+      "sku": "PROD-1764276448129-MYJ3K",
+      "imageUrl": "https://res.cloudinary.com/dkblutnml/image/upload/v1766173444/licrorice/products/ouzgcaargvrfsrspltec.png",
+      "flavors": [],
+      "variations": []
+    }
+  ]
+}
